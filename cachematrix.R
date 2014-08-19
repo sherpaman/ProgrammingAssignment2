@@ -2,6 +2,13 @@
 ## in a single object. 
 ## This object is a list of function that permits to retrive (get) 
 ## and calculate (set) the values.
+##
+## The code is highly based on the example given in the R Programming Course
+## by Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
+## available in the original README.md of the git repository :
+## https://github.com/rdpeng/ProgrammingAssignment2/blob/master/README.md
+## I have basically only changed the name of the functions and variables,
+## switched the function 'mean' with 'solve', and added all comments.
 
 ## The makeCacheMatrix Function creates a list of function 
 ## that will permit to store and retrieve the matrix and its inverse.
